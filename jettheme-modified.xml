@@ -1498,7 +1498,7 @@ width: 50%;
       <b:include name='JetHtml'/>
     </b:includable>
   </b:widget>
-  <b:widget id='HTML5' locked='false' title='# Post Link List' type='HTML' visible='true'>
+  <b:widget id='HTML5' locked='false' title='# Post Link List' type='HTML' visible='false'>
     <b:widget-settings>
       <b:widget-setting name='content'><![CDATA[<div class="alert sdw-oit"> 
 <p style="text-align:center;" class="ph-oit-b">
