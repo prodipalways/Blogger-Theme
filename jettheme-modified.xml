@@ -901,7 +901,7 @@ margin-bottom: 0px;
 }
 
 .entry-text h1 {
-font-size: 36px;
+font-size: 32px;
 font-weight: 700;
 color: var(--jt-heading-color);
 margin-top: 1rem;
@@ -914,19 +914,6 @@ padding: 10px 10px 0 10px;
 }
 
 .entry-text h2 {
-font-size: 32px;
-font-weight: 600;
-color: var(--jt-heading-color);
-margin-top: 1rem;
-margin-bottom: 0.3rem;
-background-color: rgba(3, 115, 185, 0.03);
-border-bottom: 1px solid black;
-border-left: 5px solid black;
-border-radius: 10px;
-padding: 10px 10px 0 10px;
-}
-
-.entry-text h3 {
 font-size: 28px;
 font-weight: 600;
 color: var(--jt-heading-color);
@@ -939,8 +926,21 @@ border-radius: 10px;
 padding: 10px 10px 0 10px;
 }
 
-.entry-text h4 {
+.entry-text h3 {
 font-size: 22px;
+font-weight: 600;
+color: var(--jt-heading-color);
+margin-top: 1rem;
+margin-bottom: 0.3rem;
+background-color: rgba(3, 115, 185, 0.03);
+border-bottom: 1px solid black;
+border-left: 5px solid black;
+border-radius: 10px;
+padding: 10px 10px 0 10px;
+}
+
+.entry-text h4 {
+font-size: 20px;
 font-weight: 600;
 color: var(--jt-heading-color);
 margin-top: 1rem;
